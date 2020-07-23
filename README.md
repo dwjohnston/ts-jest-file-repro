@@ -4,6 +4,9 @@ Repro for this issue: https://github.com/kulshekhar/ts-jest/issues/1506
 
 Verified on macOS 10.15.5
 
+**Update**
+Doing a fresh clone on the same machine didn't reproduce this behaviour. Which suggests that it's something to do with my IDE, or the way I installed the dependencies/created the files that is causing this. 
+
 ## Instructions
 
 
